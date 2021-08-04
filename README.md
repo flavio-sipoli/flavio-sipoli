@@ -1,8 +1,9 @@
 <h1>Hi, I'm Flávio Sipoli</h1>
 <h3>A web developer from Brasil</h3>
 
-- 📫 How to reach me 
+- 📫 Connect with me: 
 - [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-sipoli/)](https://www.linkedin.com/in/flavio-sipoli/)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio-sipoli&show_icons=true&locale=en&layout=compact" alt="flavio-sipoli" /></p>
 
