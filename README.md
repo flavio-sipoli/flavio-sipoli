@@ -6,7 +6,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio-sipoli&show_icons=true&locale=en&layout=compact" alt="flavio-sipoli" /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-sipoli&layout=compact&langs_count=7&theme=dracula"/></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavio-sipoli&theme=dark&show_icons=true)
 
