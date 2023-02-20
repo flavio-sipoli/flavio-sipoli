@@ -1,5 +1,5 @@
 <h1>Hi, I'm Flávio Sipoli</h1>
-<h3>A web developer from Brasil</h3>
+<h3>A Software developer from Brasil</h3>
 
 - 📫 Connect with me: 
 - [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-sipoli/)](https://www.linkedin.com/in/flavio-sipoli/) <a href = "mailto:flaviomsipoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
